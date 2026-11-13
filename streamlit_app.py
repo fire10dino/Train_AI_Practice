@@ -49,7 +49,7 @@ def initialize_connections():
             firebase_cred,
             {
                 "databaseURL":
-                st.secrets["firebase"]["database_url"]
+                "https://personalai-90b0c-default-rtdb.asia-southeast1.firebasedatabase.app/"
             }
         )
 
