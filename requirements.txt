@@ -1,5 +1,5 @@
 
 streamlit==1.52.2
 firebase-admin==7.1.0
-openai==2.8.1
 python-dotenv==1.2.1
+
